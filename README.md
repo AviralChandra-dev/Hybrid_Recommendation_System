@@ -165,4 +165,3 @@ Because lawyers need jobs too.
 
 ---
 
-**Made with ❤️ and a dash of cynicism by [DevanshSrajput](https://github.com/DevanshSrajput)**
